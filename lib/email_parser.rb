@@ -5,7 +5,7 @@
 
 class EmailParser
 
-
+  EmailAddressParser = 
 
 
 
