@@ -5,8 +5,8 @@
 
 class EmailAddressParser
   EMAILPARSER = ["avi@test.com", "are1@test.com"]
-  def parse
-  
+  def parse(name)
+    @name = name
   end
 
 
